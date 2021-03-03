@@ -1088,11 +1088,16 @@
 // Invert the stepper direction. Change (or reverse the motor connector) if an axis goes the wrong way.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define INVERT_X_DIR true
 =======
 #define INVERT_X_DIR false
 >>>>>>> parent of db48a939d3... FanFix
 #define INVERT_Y_DIR true
+=======
+#define INVERT_X_DIR false
+#define INVERT_Y_DIR false
+>>>>>>> parent of 184408b461... Update Configuration.h
 =======
 #define INVERT_X_DIR false
 #define INVERT_Y_DIR false
